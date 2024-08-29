@@ -22,7 +22,7 @@ image: ""
 #resulting image will be named <repository>:v<tag>
 imageRef:
   repository: "" #path to repo
-  tag: "test-10" #defaults to chart version
+  tag: "test-11" #defaults to chart version
 
 customPullSecret: ""
 installCRD: true
